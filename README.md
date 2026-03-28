@@ -22,7 +22,7 @@ I'm a Computer Science student with interests in software development, artificia
 - LinkedIn: www.linkedin.com/in/youssif-elmenshawy-bb6996283
 
 ## GitHub Stats
-![Youssif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssif-El-menshawy&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssif-El-menshawy&show_icons=true&theme=dark)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssif-El-menshawy&layout=compact&theme=dark)
