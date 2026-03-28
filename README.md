@@ -1,4 +1,4 @@
-# Hi, I'm Youssif ElMenshawy
+# Hi, I'm Youssif ElMenshawy  ![Profile Views](https://komarev.com/ghpvc/?username=Youssif-El-menshawy&color=blue)
 
 I'm a Computer Science student with interests in software development, artificial intelligence, data analysis, and cybersecurity.
 
@@ -18,11 +18,31 @@ I'm a Computer Science student with interests in software development, artificia
 - Cloud Computing
 - Cybersecurity
 
+ ## Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## Currently Learning
+- Data Structures & Algorithms
+- Cloud Computing
+- Machine Learning Basics
+- Database Systems
+
+## Projects
+I am currently working on and uploading my university and personal projects, including:
+
+- Student Management System (Java)
+- Data Structures Implementation (Python)
+- CSV Data Analysis (Python)
+- Socket Chat Application (Java)
+
+These projects will demonstrate my skills in object-oriented programming, data structures, networking, and data analysis.
+
+
 ## Connect with me
 - LinkedIn: www.linkedin.com/in/youssif-elmenshawy-bb6996283
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssif-El-menshawy&show_icons=true&theme=dark)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssif-El-menshawy&layout=compact&theme=dark)
