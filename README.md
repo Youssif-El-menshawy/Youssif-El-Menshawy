@@ -32,6 +32,22 @@ I'm a Computer Science student with interests in software development, artificia
 - Database Systems
 
 ## Projects
+
+SmartUmpire – iOS App
+
+Technologies: Swift, SwiftUI, Firebase Firestore, Firebase Authentication
+
+Developed a mobile application for managing sports tournaments and match scoring.
+Implemented user authentication and role-based access (umpire dashboard).
+Built tournament creation, match management, and score tracking features.
+Designed responsive UI using SwiftUI.
+Integrated Firebase Firestore for real-time database storage.
+
+GitHub Repository:
+https://github.com/Youssif-El-menshawy/SmartUmpire-iOS
+
+## Other Projects
+
 I am currently working on and uploading my university and personal projects, including:
 
 - Student Management System (Java)
