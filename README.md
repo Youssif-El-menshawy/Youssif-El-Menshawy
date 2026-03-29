@@ -1,4 +1,4 @@
-# Hi, I'm Youssif ElMenshawy  ![Profile Views](https://komarev.com/ghpvc/?username=Youssif-El-menshawy&color=blue)
+# Hi, I'm Youssif ElMenshawy 
 
 I'm a Computer Science student with interests in software development, artificial intelligence, data analysis, and cybersecurity.
 
